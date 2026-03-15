@@ -1,7 +1,7 @@
 # 🤖 AI Financial Advisor
 
 A sophisticated web-based financial advisor that uses AI-powered algorithms to generate personalized financial plans based on your salary, expenses, and goals.
-
+https://mjamesru.github.io/AI-Financial-Advisor/
 ## Features
 
 ### 🎯 Core Functionality
